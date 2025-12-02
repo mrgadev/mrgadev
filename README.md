@@ -3,7 +3,6 @@
 **Backend Developer** specializing in Laravel | Building production-ready systems serving 500+ users
 
 🔭 Currently working on: **ERP System for UMKM** (Vue.js + Laravel + PWA with offline capability)  
-💼 Professional: **Backend Developer at PT Mahir Technology Indonesia**  
 🌱 Learning: **Redis Caching, Go, TypeScript**  
 ⚡ 2,600+ contributions in 2024-2025 | 15+ months production experience
 
@@ -11,7 +10,10 @@
 
 ## 🛠️ Tech Stack
 
-**Backend:** Laravel • PHP • MySQL • Redis • REST API  
+**Backend:** ![Laravel](https://img.shields.io/badge/Laravel-10-red)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![Status](https://img.shields.io/badge/Status-Production-green)
 **Frontend:** Vue.js • JavaScript • HTML/CSS • TailwindCSS  
 **DevOps:** Ubuntu Server • NGINX • SSL • Git • Docker  
 **Integration:** Midtrans Payment Gateway • WhatsApp API  
