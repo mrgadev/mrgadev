@@ -2,8 +2,7 @@
 
 **Backend Developer** specializing in Laravel | Building production-ready systems serving 500+ users
 
-🔭 Currently working on: **ERP System for UMKM** (Vue.js + Laravel + PWA with offline capability)  
-🌱 Learning: **Redis Caching, Go, TypeScript**  
+🌱 Learning: **Redis Caching, Docker, TypeScript**  
 ⚡ 2,600+ contributions in 2024-2025 | 15+ months production experience
 
 ---
@@ -15,7 +14,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![Status](https://img.shields.io/badge/Status-Production-green)
 **Frontend:** Vue.js • JavaScript • HTML/CSS • TailwindCSS  
-**DevOps:** Ubuntu Server • NGINX • SSL • Git • Docker  
+**DevOps:** Ubuntu Server • NGINX • SSL • Git  
 **Integration:** Midtrans Payment Gateway • WhatsApp API  
 **Tools:** Postman • Jira • Notion • GitHub Actions
 
