@@ -35,12 +35,6 @@ Complete hotel operations platform with 6 integrated modules
 **Features:** Reservations, guest management, check-in/out, admin dashboard  
 🔗 [Live Demo](deployed-link-if-available)
 
-### 💼 [UMKM ERP System](link-when-ready) ⚡ In Progress
-Offline-capable ERP for small businesses with PWA technology  
-**Tech:** Vue.js, Laravel API, Redis, IndexedDB, Service Workers  
-**Features:** POS, inventory, invoicing, multi-outlet, offline sync  
-📅 Target Launch: Q2 2025
-
 ---
 
 ## 📊 GitHub Stats
